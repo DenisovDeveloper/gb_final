@@ -16,7 +16,7 @@ __Эта папка содержит выполенные задания по и
 1. Репозиторий на GitHub: 
 
 ~~~sh
-https://github.com/DenisovDeveloper/gb/tree/main/Final%20test
+https://github.com/DenisovDeveloper/gb_final
 ~~~
 
 2. Блок схема алгоритма находится в папке репозитория и называется final_scheme.jpg
