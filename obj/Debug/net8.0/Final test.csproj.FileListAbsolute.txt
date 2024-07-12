@@ -1,0 +1,14 @@
+C:\Final test\bin\Debug\net8.0\Final test.exe
+C:\Final test\bin\Debug\net8.0\Final test.deps.json
+C:\Final test\bin\Debug\net8.0\Final test.runtimeconfig.json
+C:\Final test\bin\Debug\net8.0\Final test.dll
+C:\Final test\bin\Debug\net8.0\Final test.pdb
+C:\Final test\obj\Debug\net8.0\Final test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Final test\obj\Debug\net8.0\Final test.AssemblyInfoInputs.cache
+C:\Final test\obj\Debug\net8.0\Final test.AssemblyInfo.cs
+C:\Final test\obj\Debug\net8.0\Final test.csproj.CoreCompileInputs.cache
+C:\Final test\obj\Debug\net8.0\Final test.dll
+C:\Final test\obj\Debug\net8.0\refint\Final test.dll
+C:\Final test\obj\Debug\net8.0\Final test.pdb
+C:\Final test\obj\Debug\net8.0\Final test.genruntimeconfig.cache
+C:\Final test\obj\Debug\net8.0\ref\Final test.dll
